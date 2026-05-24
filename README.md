@@ -1,5 +1,5 @@
 # 🐧 Linux Journey
-```bash
+
 Welcome to my Linux learning repository.
 
 This repository documents my journey of learning Linux using Ubuntu on my MacBook Air M2. I will upload commands, notes, practice files, and daily progress here.
