@@ -1,1 +1,0 @@
-echo ---> is to write anything inside the file
