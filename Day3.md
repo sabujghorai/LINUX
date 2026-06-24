@@ -36,5 +36,4 @@ ln -h - Practical Linux file management
 
 ---
 
-🚀 Forward Deployed Engineer Journey  
 🚀 Linux for DevOps Learning Repository  
