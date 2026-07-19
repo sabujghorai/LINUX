@@ -36,4 +36,4 @@ ln -h - Practical Linux file management
 
 ---
 
-🚀 Linux for DevOps Learning Repository  
+🚀 Linux for DevOps Learning Repository
