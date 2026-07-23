@@ -30,7 +30,7 @@ learned:
 cp - File copy operations
 mv - Moving and renaming files
 cp -r - Recursive directory copy
-wc- File statistics using `wc`
+wc- File statistics using 
 ln -s - Difference between soft links and hard links
 ln -h - Practical Linux file management
 
