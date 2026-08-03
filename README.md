@@ -26,3 +26,7 @@ Topics Learned:
 - Ubuntu Terminal Basics
 - Navigation Commands
 - File and Folder Management
+
+### Day 3
+Topics Learned
+- 
