@@ -1,0 +1,12 @@
+who
+whoami
+id
+groups
+passwd
+su
+sudo
+useradd
+usermod
+userdel
+groupadd
+groupdel
