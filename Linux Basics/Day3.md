@@ -35,5 +35,3 @@ ln -s - Difference between soft links and hard links
 ln -h - Practical Linux file management
 
 ---
-
-🚀 Linux for DevOps Learning Repository
