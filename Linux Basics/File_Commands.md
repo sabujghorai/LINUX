@@ -1,17 +1,9 @@
-touch
-mkdir
-mkdir -p
-rmdir
-rm
-rm -r
-rm -rf
-cp
-cp -r
-mv
-tree
-find
-locate
-which
-whereis
-stat
-file
+cat
+tac
+less
+more
+head
+tail
+tail -f
+nl
+wc
